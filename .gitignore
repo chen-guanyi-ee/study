@@ -1,0 +1,14 @@
+logs/
+state/
+cache/
+tmp/
+__pycache__/
+.pytest_cache/
+*.pyc
+*.log
+state/*.sqlite
+state/*.sqlite3
+state/**/*.sqlite
+state/**/*.sqlite3
+state/**/*.db
+.agent-memory/
