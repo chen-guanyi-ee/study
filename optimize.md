@@ -15,7 +15,7 @@ waste.
 
 - Net-negative: Add only if you delete/merge more.
 - Continuity First: Protect durable study context.
-- Indexes: Use `INDEX.md`, `bootstrap.md`, `loadout.md`. Skip full-tree scans.
+- Indexes: Use `bootstrap.md` and `loadout.md`. Skip full-tree scans.
 - Readable Format: Standard Markdown, clear headers, concise phrasing.
 - Truth Source: Markdown > derived indexes.
 - Human-Friendly: Simple names, clear labels, in-file metadata.
@@ -30,7 +30,7 @@ waste.
     - `bootstrap.md`: `loadout.md` pointer.
     - `loadout.md`: Route map and summary.
     - `memory/current.md`: Durable study facts.
-    - `projects/INDEX.md`: Study method map.
+    - Root method files: Topic-specific methods.
 - Boundaries: Public/private separation.
 - Domain Separation: `study` indexes only study methods and study facts.
 
@@ -59,8 +59,8 @@ waste.
 
 ## Context Profiles
 
-- Shared: Use `projects/token-management.md` for long-context strategy,
-  source pointers, visual-input handling, and cross-project budget decisions.
+- Shared: Use `token-system.md` for always-on context discipline and long-task
+  resume packets.
 - Paper Reading: Keep source maps, selected anchors, claim/evidence/limitation
   notes, and terminology uncertainty. Do not carry full paper text unless making
   an annotation artifact.

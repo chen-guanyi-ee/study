@@ -7,13 +7,15 @@ This folder is the local study-method workspace.
 For normal study work, read only:
 
 - `loadout.md`
+- `token-system.md`
 
-That file is the compact route map. Do not eagerly load longer files unless
-`loadout.md`, the user request, or the current task clearly requires them.
+These files are the compact startup route. Do not eagerly load method files
+unless `loadout.md`, the user request, or the current task clearly requires
+them.
 
 ## Read When Relevant
 
-- Use the routing section in `loadout.md` for project-specific files.
+- Use the routing section in `loadout.md` for root method files.
 - Read `memory/current.md` only when durable study facts beyond the compact
   loadout matter.
 - Read `policy.md` only when revising study workspace boundaries.

@@ -1,12 +1,13 @@
 # Current Study Facts
 
-Last updated: 2026-07-26
+Last updated: 2026-07-30
 
 - `study` is the canonical workspace for learning methods, paper reading,
-  problem solving, and answer-quality rules.
-- Domain implementation rules belong outside this workspace.
-- Default load is `bootstrap.md` then `loadout.md`.
-- Project methods are routed through `projects/INDEX.md`.
-- Keep study notes compact and method-focused; do not store raw transcripts,
-  credentials, private third-party messages, generated caches, or unrelated
-  workspace indexes here.
+  rigorous problem solving, and answer-quality rules.
+- Default load is `bootstrap.md`, `loadout.md`, then `token-system.md`.
+- Topic methods live at the study root and are loaded only when routed:
+  `paper-reading.md`, `problem-solving.md`, and
+  `reasoning-answer-quality.md`.
+- Keep study notes compact and method-focused. Do not store raw transcripts,
+  credentials, private third-party messages, generated caches, logs, or
+  unrelated workspace indexes here.
